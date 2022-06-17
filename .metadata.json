@@ -1,0 +1,14 @@
+[
+  {
+    "package": "DGLMExtPois",
+    "oncran": true
+  },
+  {
+    "package": "tsfgrnn",
+    "oncran": true
+  },
+  {
+    "package": "tsfknn",
+    "oncran": true
+  }
+]
