@@ -1,5 +1,9 @@
 [
   {
+    "package": "DGLMExtPois",
+    "oncran": true
+  },
+  {
     "package": "tsfgrnn",
     "oncran": true
   },
