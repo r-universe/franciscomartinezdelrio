@@ -3,9 +3,9 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "tsfknn"]
-	path = tsfknn
-	url = https://github.com/franciscomartinezdelrio/tsfknn
+[submodule "DGLMExtPois"]
+	path = DGLMExtPois
+	url = https://github.com/franciscomartinezdelrio/dglmextpois
 	shallow = true
 	registered = true
 [submodule "tsfgrnn"]
@@ -13,8 +13,8 @@
 	url = https://github.com/franciscomartinezdelrio/tsfgrnn
 	shallow = true
 	registered = true
-[submodule "DGLMExtPois"]
-	path = DGLMExtPois
-	url = https://github.com/franciscomartinezdelrio/dglmextpois
+[submodule "tsfknn"]
+	path = tsfknn
+	url = https://github.com/franciscomartinezdelrio/tsfknn
 	shallow = true
 	registered = true
