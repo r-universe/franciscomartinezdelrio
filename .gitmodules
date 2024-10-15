@@ -11,6 +11,9 @@
 [submodule "tsfknn"]
 	path = tsfknn
 	url = https://github.com/franciscomartinezdelrio/tsfknn
+[submodule "utsf"]
+	path = utsf
+	url = https://github.com/franciscomartinezdelrio/utsf
 [submodule "vctsfr"]
 	path = vctsfr
 	url = https://github.com/franciscomartinezdelrio/vctsfr
